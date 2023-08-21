@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🧠  I'm Web3 enthusiast
 *   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/logos_nadjika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anna Logos" height="30" width="40" /></a>
+<a href="https://twitter.com/annalogos05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Anna Logos" height="30" width="40" /></a>
 </p>
 
 
